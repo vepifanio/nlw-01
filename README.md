@@ -1,6 +1,6 @@
 # Ecoleta
 
-![picture](/web/src/EcoletaCover.png)
+![picture](/web/src/assets/EcoletaCover.png)
 
 ## :notebook: Descrição
 O Ecoleta é uma aplicação criada durante a Next Level Week #01 capaz de conectar pontos de coleta de resíduos à pessoas interessadas em descartar esses resíduos.
